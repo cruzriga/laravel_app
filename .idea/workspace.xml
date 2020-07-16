@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d72c1786-3034-4b88-8d79-bbc47fa0fff1" name="Default Changelist" comment="" />
+    <list default="true" id="d72c1786-3034-4b88-8d79-bbc47fa0fff1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/plugins/vuetify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/vue.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +26,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -122,6 +139,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1ejUH8eYctpDvfgUPwAu8B8RxmE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -129,8 +147,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CRUZRIGA\Documents\GitHub\laravel_app\resources" />
+      <recent name="D:\CRUZRIGA\Documents\GitHub\laravel_app" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -149,7 +175,8 @@
       <option name="presentableId" value="Default" />
       <updated>1594834404533</updated>
       <workItem from="1594834408008" duration="11889000" />
-      <workItem from="1594846697001" duration="1999000" />
+      <workItem from="1594846697001" duration="5996000" />
+      <workItem from="1594862895665" duration="8532000" />
     </task>
     <servers />
   </component>
@@ -173,6 +200,10 @@
       <screen x="0" y="0" width="3840" height="2100" />
     </state>
     <state width="3772" height="594" key="GridCell.Tab.0.right/0.0.3840.2100/-3413.0.3413.1860/5760.413.2880.1560@0.0.3840.2100" timestamp="1594846688277" />
+    <state x="1178" y="497" key="SettingsEditor" timestamp="1594862885650">
+      <screen x="0" y="0" width="3840" height="2100" />
+    </state>
+    <state x="1178" y="497" key="SettingsEditor/0.0.3840.2100/-3413.0.3413.1860/5760.413.2880.1560@0.0.3840.2100" timestamp="1594862885650" />
     <state x="850" y="456" width="1727" height="928" key="find.popup" timestamp="1594855022867">
       <screen x="0" y="0" width="3840" height="2100" />
     </state>
